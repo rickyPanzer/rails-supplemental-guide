@@ -6,7 +6,9 @@ Welcome to the Rails Supplemental Guide. This was made by mentors to make the le
 Wow! This is amazing! How can I help?
 
 * We love feedback and data
-* If you have a question that hasn't been answered yet, feel free to open up an issue and write your question there. Make sure to check to if your question was already asked in the issues. If it already has been, then +1 the issue by adding a comment to show that there is additional demand. The questions with higher demand and helpfulness to the community will be prioritized.
+* If you have a question that hasn't been answered yet, feel free to open up an issue and write your question there. 
+* Make sure to check to if your question was already asked in the issues. If it already has been, then +1 the issue by adding a comment to show that there is additional demand.
+* The questions with higher demand and helpfulness to the community will be prioritized.
 
 What kinds of questions do you answer?
 
