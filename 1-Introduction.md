@@ -1,6 +1,4 @@
-Welcome to the Rails Supplemental Guide. This was made by the mentors of Bloc to make the learning process easier. We hope this helps!
-
-### Common Questions
+## Common Questions
 
 #### I reached the end of the checkpoint and assignment, is there anything I need to submit?
 
