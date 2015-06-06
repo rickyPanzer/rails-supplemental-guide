@@ -6,8 +6,8 @@ Welcome to the Rails Supplemental Guide. This was made by mentors to make the le
 Wow! This is amazing! How can I help?
 
 * We love feedback
-* If you have a question hasn't been answered yet, feel free to open up an issue and write your question there. Make sure to check to if your question was already asked in the issues. If it already has been, then +1 the issue and add a comment to show that there is additional demand. The questions with the most demand will be prioritized.
+* If you have a question that hasn't been answered yet, feel free to open up an issue and write your question there. Make sure to check to if your question was already asked in the issues. If it already has been, then +1 the issue and add a comment to show that there is additional demand. The questions with the most demand will be prioritized.
 
 What kinds of questions do you answer?
 
-* Good question. We notice that in our students' learnings, there are often common questions or roadblocks which take hours to overcome. We want to expedite your learning by helping with those issues. What we are not interested in revealing how to exactly do the assignment, as that doesn't help with learning.
+* Good question. This guide is in it's early stages, so feel free to ask away. Our students' learning is our priority. If we feel if a question is particularly helpful to community, we may not answer it. Also, we are doing this on our spare time, so we may not get your question in time. The nice thing though is that your question will help the students after you.
