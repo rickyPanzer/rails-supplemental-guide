@@ -1,2 +1,8 @@
 # rails-supplemental-guide
-a guide to help you throughout the ios course and to provide you with additional resources
+Welcome to the Rails Supplemental Guide. This was made by mentors to make the learning process easier. We hope this helps!
+
+###Common Questions
+
+Wow! This is amazing! How can I help?
+
+* We love feedback
