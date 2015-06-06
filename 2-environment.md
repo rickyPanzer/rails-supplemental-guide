@@ -1,4 +1,4 @@
-### Common Problems
+### Common Questions
 
 Ignore the assignment
 * It tells you to install Virtual Box, along with Ubuntu and Rails Girls on it
